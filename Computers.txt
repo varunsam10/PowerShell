@@ -1,0 +1,9 @@
+win7-c1
+hyperv
+hyperv-box
+dc1
+bonn_2008
+ex1
+sql
+xp
+VARUNSAMF6C2
